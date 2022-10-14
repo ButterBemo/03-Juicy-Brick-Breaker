@@ -2,6 +2,7 @@
 Project for MSCH-C220
 
 Description
+
 A game where you move a paddle in order to make a ball hit bricks to build a score and beat 3 levels. 
 
 ## Implementation
