@@ -29,7 +29,7 @@ script = ExtResource( 4 )
 [node name="Background" type="ColorRect" parent="."]
 margin_right = 1024.0
 margin_bottom = 800.0
-color = Color( 0.333333, 0.333333, 0.333333, 1 )
+color = Color( 0, 0.345098, 1, 1 )
 
 [node name="Comet_Container" type="Node2D" parent="."]
 script = ExtResource( 11 )
